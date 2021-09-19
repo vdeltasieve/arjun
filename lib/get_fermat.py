@@ -7,7 +7,7 @@
 class Fermat(object):
 
     '''
-    Use Fermat Factorization to factorize the number
+    Use Fermat Factorization method to factorize the number
     '''
 
     def __init__(self, number_to_factorize):

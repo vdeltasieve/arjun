@@ -6,7 +6,7 @@ Created on 20 Jul 2021
 
 class SSV(object):
     '''
-    classdocs
+    Calculate steady state value and p check in zone0
     '''
 
     def __init__(self, dial1_list, delta, p):

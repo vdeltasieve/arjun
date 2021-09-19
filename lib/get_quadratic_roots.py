@@ -9,6 +9,10 @@ decimal.getcontext().prec = 500
 
 class Quadratic_Roots(object):
 
+    '''
+    Calculate roots through discriminant
+    '''
+
     def __init__(self, a, b, c):
         
         self.a = a

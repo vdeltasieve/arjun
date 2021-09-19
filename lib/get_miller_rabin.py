@@ -1,10 +1,8 @@
 '''
 Created on 20 Jun 2021
-
 @author: vishalmudgal
 '''
 import random
-
 
 class MillerRabin(object):
 

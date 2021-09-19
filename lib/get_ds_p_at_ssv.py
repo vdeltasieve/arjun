@@ -6,7 +6,7 @@ Created on 20 Jul 2021
 
 class P_DS_SSV(object):
     '''
-    classdocs
+    Calculates p at SSV for any delta
     '''
 
     def __init__(self, dial1_list, delta, ssv, p):

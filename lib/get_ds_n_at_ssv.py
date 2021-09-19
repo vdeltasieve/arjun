@@ -6,7 +6,7 @@ Created on 20 Jul 2021
 
 class N_DS_SSV(object):
     '''
-    classdocs
+    Calculate N on sum series when steady state is achieved on the delta series
     '''
 
     def __init__(self, dial1_list, delta, ssv, p_eo):

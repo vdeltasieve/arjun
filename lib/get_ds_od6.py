@@ -11,7 +11,7 @@ decimal.getcontext().prec = 500
 class OD6(object):
     
     '''
-    classdocs
+    Calculate od6 for any delta
     '''
 
     def __init__(self, dial1_list, n):

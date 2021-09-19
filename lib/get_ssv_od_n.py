@@ -8,6 +8,10 @@ decimal.getcontext().prec = 500
 
 class SSV_OD_N(object):
 
+    '''
+    Get steady state value
+    '''
+
     def __init__(self, f1, f2, a1, a2, v1, v2):
         
         #self.next_f1 = prev_f1 + 2
