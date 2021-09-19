@@ -11,7 +11,7 @@ from lib.get_ssv_od_n import SSV_OD_N
 class OD5_DialRotationCheck(object):
     
     '''
-    classdocs
+    Testing the delta sieve coverage when v1 changes and sieving is done in od5 
     '''
 
     def __init__(self, dialP1, delta, delta_end, od_watch):

@@ -11,6 +11,10 @@ decimal.getcontext().prec = 50
 import matplotlib.pyplot as plt
 
 class OD_Constants_Check(object):
+
+    '''
+    Sieving delta in od9a, od9b, od10, od11 and testing the hypothesis that delta sieve zone will remain constant even when the delta changes
+    '''
     
     def __init__(self, delta_start, delta_limit):
     

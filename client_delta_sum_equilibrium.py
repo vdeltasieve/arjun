@@ -11,7 +11,7 @@ from lib.get_ds_od6 import OD6
 # DSSC = Delta Sum Series Connect
 class DSSC(object):
     '''
-    classdocs
+    This checks how delta and sum series connect to each other
     '''
 
     def __init__(self, delta, num_of_iterations):

@@ -16,7 +16,7 @@ from lib.get_quadratic_roots import Quadratic_Roots
 
 class ROxy(object):
     '''
-    classdocs
+    Reflection over {X,Y} is tested
     '''
 
     def __init__(self, v1, delta, num_of_iterations, delta_increment):

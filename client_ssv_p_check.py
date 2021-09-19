@@ -18,7 +18,7 @@ from lib.get_fermat import Fermat
 # SSV = Static State Value
 class SSV_P_Check(object):
     '''
-    classdocs
+    This tests the steady state value (ssv) hypothesis in zone0 and value of p when ssv first appears in zone0 of a delta sieve zone for any delta
     '''
 
     def __init__(self, dial1_list, delta_start, depth, depth_multiplier=1):

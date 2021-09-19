@@ -11,7 +11,7 @@ decimal.getcontext().prec = 50
 
 class Odd_Delta_SSV_Check(object):
     '''
-    classdocs
+    Testing the steady state values when delta is odd
     '''
 
     def __init__(self, p_start, delta, delta_end, v1, v2, depth_limit):

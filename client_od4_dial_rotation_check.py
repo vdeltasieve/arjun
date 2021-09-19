@@ -12,7 +12,7 @@ from lib.get_ds_p_at_ssv import P_DS_SSV
 class OD4_DialRotationCheck(object):
     
     '''
-    classdocs
+    Testing the delta sieve coverage when v1 changes and sieving is done in od4
     '''
 
     def __init__(self, dialP1, delta, delta_end, od_watch):

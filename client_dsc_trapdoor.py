@@ -14,7 +14,7 @@ decimal.getcontext().prec = 5000
 #DSC = Delta Sum Connect
 class DSC_Trapdoor(object):
     '''
-    classdocs
+    Message Encryption, Private Key Generation and Message Decryption are tested here
     '''
 
     def __init__(self, delta):
